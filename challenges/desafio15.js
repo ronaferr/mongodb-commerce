@@ -8,7 +8,7 @@ db.produtos.updateMany(
 );
 db.produtos.updateMany(
     {
-        tags: "bovino"
+        tags: "bovino",
     },
     {
         $inc: {
@@ -18,7 +18,7 @@ db.produtos.updateMany(
 );
 db.produtos.updateMany(
     {
-        tags: "ave"
+        tags: "ave",
     },
     {
         $inc: {
