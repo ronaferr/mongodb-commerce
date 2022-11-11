@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto MongoDB Commerce
+
+# Contexto
+Este projeto trata-se de um banco de dados feito com MongoDB com produtos de fast-food, para consolidar comandos aprendidos no modulo de MongoDB na Trybe
+
+## Técnologias usadas
+
+Back-end:
+> Desenvolvido usando: MongoDB, ES6
+
+Projeto desenvolvido durante curso na Trybe
